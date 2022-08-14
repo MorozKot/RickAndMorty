@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="image_of_character">Image of character</string>
+    <string name="species">Species</string>
+    <string name="status">Status</string>
+    <string name="gender">Gender</string>
+    <string name="air_date">Air date</string>
+    <string name="episode">Episode</string>
+    <string name="episode_name">Episode name</string>
+    <string name="location_name">Location name</string>
+    <string name="type">Type</string>
+    <string name="dimension">Dimension</string>
+    <string name="character_name">Character name</string>
+    <string name="characters">Characters</string>
+    <string name="episodes">Episodes</string>
+    <string name="location">Location</string>
+    <string name="CharactersTitle">Characters</string>
+    <string name="EpisodesTitle">Episodes</string>
+    <string name="LocationsTitle">Locations</string>
+</resources>
